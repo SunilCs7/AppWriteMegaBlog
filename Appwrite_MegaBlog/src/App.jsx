@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>Sample mega blog post</h1>
+      <h1>Sample mega blog post with app</h1>
     </>
   )
 }
